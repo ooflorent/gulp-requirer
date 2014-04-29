@@ -1,0 +1,21 @@
+{
+  "name": "gulp-requirer",
+  "version": "0.1.0",
+  "description": "Frontend packager for gulp",
+  "homepage": "http://github.com/ooflorent/gulp-requirer",
+  "author": "Florent Cailhol",
+  "main": "index.js",
+  "keywords": [
+    "gulpplugin"
+  ],
+  "dependencies": {
+    "through2": "^0.4.1",
+    "gulp-util": "^2.2.14"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/ooflorent/gulp-requirer/raw/master/LICENSE"
+    }
+  ]
+}
