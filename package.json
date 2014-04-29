@@ -1,8 +1,9 @@
 {
   "name": "gulp-requirer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Frontend packager for gulp",
   "homepage": "http://github.com/ooflorent/gulp-requirer",
+  "repository": "git://github.com/ooflorent/gulp-requirer.git",
   "author": "Florent Cailhol",
   "main": "index.js",
   "keywords": [
